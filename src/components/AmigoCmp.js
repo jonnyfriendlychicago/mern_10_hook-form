@@ -25,8 +25,7 @@ const AmigoCmp = (props) => {
         </Card.Body>
     </Card>
     </>
-
     ) 
-}
+}; 
 
 export default AmigoCmp; 
